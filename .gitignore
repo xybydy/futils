@@ -1,0 +1,5 @@
+./*.js
+*.sqlite
+.idea/*
+sa/*
+*.log
